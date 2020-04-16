@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:lab1="http://amw.gdynia.pl/sao/lab1">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <lab1:resultsResponse>
+         <!--1 or more repetitions:-->
+         <lab1:entry>4</lab1:entry>
+      </lab1:resultsResponse>
+   </soapenv:Body>
+</soapenv:Envelope>
